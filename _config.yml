@@ -26,7 +26,10 @@ navbar-links:
     - Programacion: "https://beautifuljekyll.com"
     - Contenidos: "https://beautifuljekyll.com"
     - Politicas: "https://beautifuljekyll.com"
-    - Aplicaciones: "https://beautifuljekyll.com"  
+    - Aplicaciones: "https://beautifuljekyll.com"
+  Logros: "https://beautifuljekyll.com"
+  Quienes somos: "quienes"
+    
 
 ################
 # --- Logo --- #
