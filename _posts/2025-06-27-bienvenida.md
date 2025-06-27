@@ -9,9 +9,7 @@ tags: [welcome, landing]
 author: Cristian Roman, Katherine Perez, Natalia Ramirez
 ---
 
-## Bienvenidos al proyecto MacroData
-
-Una iniciativa para fortalecer las habilidades en programación y métodos comparativos en biología evolutiva entre estudiantes e investigadores en Colombia.Buscamos reducir brechas en la formación científica mediante talleres prácticos, colaboraciones abiertas y la construcción conjunta de herramientas de análisis desarrolladas desde America del sur
+Macroevo es una iniciativa para fortalecer las habilidades en programación y métodos comparativos en biología evolutiva entre estudiantes e investigadores en Colombia.Buscamos reducir brechas en la formación científica mediante talleres prácticos, colaboraciones abiertas y la construcción conjunta de herramientas de análisis desarrolladas desde America del sur
 
 ## ¿Qué buscamos?
 
