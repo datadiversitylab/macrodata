@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: El proyecto
+subtitle: Detalles sobre macrodata
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Este proyecto nace con el propósito de fortalecer las capacidades de programación y análisis en biología evolutiva entre estudiantes e investigadores en Colombia, particularmente aquellos vinculados a universidades públicas. A lo largo de dos años, se realizarán una serie de talleres presenciales enfocados en el uso de R y en la aplicación de métodos comparativos filogenéticos, utilizando herramientas desarrolladas por investigadores del Sur Global.
+Aunque en América Latina se ha avanzado en el uso de programación en biología, la creación de herramientas propias sigue siendo limitada. Actualmente, gran parte de los paquetes y metodologías utilizadas en bioinformática provienen del Norte Global, lo que genera una dependencia tecnológica que restringe la autonomía investigativa. Este proyecto busca cambiar esa dinámica, formando una nueva generación de científicos con habilidades técnicas para desarrollar sus propias herramientas de análisis, y con una visión crítica y colaborativa de la ciencia.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Además de la capacitación técnica, el proyecto promoverá la ciencia abierta, la reproducibilidad y el trabajo colectivo. Los resultados incluirán no solo una red activa de jóvenes científicos, sino también la publicación de filogenias calibradas en el tiempo de grupos poco estudiados del Árbol de la Vida, elaboradas por los propios participantes. También se creará una plataforma digital abierta en español, que recopilará los materiales y aprendizajes del proceso.
+Este proyecto es una apuesta por una ciencia más equitativa, donde las herramientas para entender la biodiversidad sean diseñadas desde las mismas regiones donde esa biodiversidad se encuentra.
