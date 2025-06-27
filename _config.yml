@@ -19,7 +19,7 @@ author: Cristian Roman
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:'
+navbar-links:
   Acerca: "aboutme"
   Cursos: "https://beautifuljekyll.com"
     - Fechas: "https://beautifuljekyll.com"
