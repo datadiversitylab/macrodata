@@ -21,7 +21,12 @@ author: Cristian Roman
 
 navbar-links:
   Acerca: "aboutme"
-  
+  Cursos:
+    - Fechas: "https://beautifuljekyll.com"
+    - Programacion: "https://beautifuljekyll.com"
+    - Contenidos: "https://beautifuljekyll.com"
+    - Politicas: "https://beautifuljekyll.com"
+    - Aplicaciones: "https://beautifuljekyll.com"  
 
 ################
 # --- Logo --- #
