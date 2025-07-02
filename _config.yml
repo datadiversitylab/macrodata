@@ -22,7 +22,7 @@ author: Cristian Román-Palacios
 navbar-links:
   Acerca: "aboutme"
   Cursos:
-    - Fechas: "https://beautifuljekyll.com"
+    - Fechas: "fechas"
     - Programacion: "https://beautifuljekyll.com"
     - Contenidos: "https://beautifuljekyll.com"
     - Politicas: "https://beautifuljekyll.com"
