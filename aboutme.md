@@ -22,3 +22,19 @@ Aunque en América Latina se ha avanzado en el uso de la programación en biolog
 
 Además de la capacitación técnica, el proyecto promoverá la ciencia abierta, la reproducibilidad y el trabajo colectivo. Los resultados incluirán no solo una red activa de jóvenes científicxs, sino también la publicación de filogenias calibradas en el tiempo de grupos poco estudiados del Árbol de la Vida, elaboradas por los propios participantes. También se creará una plataforma digital abierta en español, que recopilará los materiales y aprendizajes del proceso. Este proyecto es una apuesta por una ciencia más equitativa, en la que las herramientas para entender la biodiversidad sean diseñadas desde las mismas regiones donde esa biodiversidad se encuentra.
 
+
+## Alianzas
+Además de propiciar una red de interacción entre quienes participen en los eventos, MacroData tiene como propósito fortalecer y expandir las conexiones ya existentes con otras organizaciones y entidades.
+
+- **[Fundación Color de Colombia](#)** – Equidad racial y diversidad.
+- **[ColEvol](#)** – Sociedad Colombiana para el Estudio de la Biología Evolutiva.
+- **[Universidad Tecnológica del Chocó](#)** – Formación en el Pacífico colombiano.
+- **[Universidad del Valle](#)** – Apoyo académico en el suroccidente.
+- **[Universidad del Magdalena](#)** – Talleres en el Caribe colombiano.
+- **[Universidad de la Amazonia](#)** – Participación en regiones de alta biodiversidad.
+- **[Universidad del Atlántico](#)** – Apoyo en divulgación científica.
+- **[Universidad de Nariño](#)** – Apoyo académico en el sur del país.
+- **[Universidad Industrial de Santander](#)** – Fortalecimiento de capacidades técnicas.
+- **[Universidad de Arizona](#)** – Apoyo en evolución y biodiversidad.
+- **[CDLS – UCLA](#)** – Diversidad e inclusión en la ciencia.
+- **[ROpenSci](#)** – Ciencia abierta y herramientas reproducibles en R.
