@@ -1,12 +1,29 @@
 ---
 layout: page
-title: Logos
+title: Recursos y comunidad
 subtitle: Asociados a Macrodata
 ---
 
+## Publicaciones
 
-Publicaciones (caja)
-Guias (caja)
-Social (caja)
-Recursos (caja, Portales de data science y macroevo, libros, papers, etc)
-Foro? Mattermost?
+Espacio dedicado a las publicaciones científicas generadas en el marco de MacroData. Aquí se dará acceso a los trabajos colaborativos desarrollados por lxs participantes.
+
+## Guías
+
+Colección de guías prácticas elaboradas antes, durante, y despues de los talleres. Incluye scripts comentados, tutoriales paso a paso y materiales diseñados en el transcurso del proyecto.
+
+## Recursos
+
+Compilación curada de materiales útiles para profundizar en los temas:
+- Portales de ciencia de datos y macroevolución.
+- Libros y artículos recomendados.
+- Paquetes de R y documentación clave.
+- Sitios de ciencia abierta y colaboración reproducible.
+
+## Social
+
+Aquí se detallarán los canales de comunicación y redes de MacroData. Compartimos novedades, oportunidades, actividades futuras y recursos. También usamos este espacio para amplificar voces, iniciativas y colaboraciones desde la comunidad.
+
+## Comunidad
+
+Estamos explorando herramientas como **Mattermost** o la creación de un **foro abierto**, donde participantes e interesadxs puedan compartir dudas, proyectos y recursos.
