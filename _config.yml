@@ -20,7 +20,7 @@ author: Cristian Román
 ###############################################
 
 navbar-links:
-  Acerca: "aboutme"
+  El proyecto: "aboutme"
   Cursos:
     - Fechas: "fechas"
     - Programacion: "programacion"
