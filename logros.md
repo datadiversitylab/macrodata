@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recursos y comunidad
-subtitle: Asociados a Macrodata
+subtitle: Publicaciones, guías y recursos generales asociados a Macrodata
 ---
 
 ## Publicaciones
