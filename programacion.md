@@ -19,5 +19,3 @@ subtitle: Detalles del evento
 ·	Mayor participación de investigadores Ccolombianos en el desarrollo de herramientas bioinformáticas.
 ·	Comunidad de estudiantescientifica que permanecerán conectados mediante canales de Discord y Slack.
 
-# Contenidos
-XX
