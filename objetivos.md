@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programacion
-subtitle: Detalles del evento
+title: Objetivos
+subtitle: Objetivos generales MacroData
 ---
 
 # Objetivos
