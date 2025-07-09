@@ -23,11 +23,11 @@ navbar-links:
   Acerca: "aboutme"
   Cursos:
     - Fechas: "fechas"
-    - Programacion: "https://beautifuljekyll.com"
-    - Contenidos: "https://beautifuljekyll.com"
-    - Politicas: "https://beautifuljekyll.com"
-    - Aplicaciones: "https://beautifuljekyll.com"
-  Logros: "https://beautifuljekyll.com"
+    - Programacion: "programacion"
+    - Contenidos: "contenidos"
+    - Politicas: "politicas"
+    - Aplicaciones: "aplicaciones"
+  Logros: "logros"
   Quienes somos: "quienes"
 
 ################
