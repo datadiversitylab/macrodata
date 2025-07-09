@@ -38,9 +38,3 @@ Esperamos que todas las personas participantes:
 - Contribuyan a una comunidad científica solidaria.
 
 ---
-
-## Formulario
-
-El formulario de inscripción estará disponible durante los periodos de convocatoria anunciados. [Acceder al formulario](#) *(Enlace disponible durante las convocatorias)*.
-
----
