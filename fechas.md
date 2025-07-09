@@ -1,11 +1,17 @@
 ---
 layout: page
-title: Fechas importantes
-subtitle: Detalles sobre macrodata
+title: Tiempos en MacroData
+subtitle: Panorama general del desarrollo temporal del proyecto
 ---
 
-Alianzas (caja)
-Nacionales: Fundación Color de Colombia, Sociedad Colombiana para el Estudio de la Biología Evolutiva (ColEvol), Universidades públicas locales (Universidad Tecnológica del Chocó, Universidad del Valle, Universidad del Magdalena, Universidad de la Amazonia)
+# Panorama general
 
-Universidad del Atlantico, Universidad de Nariño, Universidad Tecnologica del Chocó, Universidad Industrial de Santander.
-Internacionales: Universidad de Arizona, Center for Diversity and Leadership in Science de la Universidad de California, Los Ángeles (CDLS), ROpenSci.
+MacroData se desarrollará entre finales de 2025 y todo el año 2026, en distintos espacios académicos a lo largo del país. Su estructura temporal está pensada para ser escalonada y hacer presencia en diferentes regiones. El primer bloque de actividades abiertas está programado para finales de 2025, e incluirá talleres introductorios dirigidos a estudiantes seleccionadxs previamente mediante convocatoria abierta. Esta fase piloto servirá como punto de partida para consolidar la metodología, establecer vínculos iniciales y sentar las bases para una comunidad activa alrededor de MacroData. Durante el primer semestre de 2026, se espera ampliar el alcance a otras regiones, fortaleciendo las alianzas con nuevas universidades y extendiendo la participación a nuevas personas. Las fechas y lugares específicos de esta etapa están aún por confirmar. El segundo semestre de 2026 incluirá al menos dos nuevas jornadas de talleres, con sedes aún por anunciar. Estas actividades buscarán cerrar el ciclo de formación presencial, consolidar redes regionales de colaboración, y dar continuidad al proceso de construcción colectiva del conocimiento. Durante el proyecto, MacroData mantendrá abiertos sus canales digitales para ofrecer recursos formativos y fomentar el intercambio entre participantes, incluso entre talleres presenciales.
+
+| Lugar del taller                                            | Fechas del taller         | Fechas de inscripción | Publicación de selección de estudiantes |
+|-------------------------------------------------------------|---------------------------|------------------------|------------------------------------------|
+TBD    | Noviembre xx–xx 2025     | Octubre xx–xx 2025     | 1 de noviembre de 2025                   |
+TBD            | Primer semestre 2026     | Por confirmar          | Por confirmar                            |
+TBD | Segundo semestre 2026    | Por confirmar          | Por confirmar                            |
+TBD | Segundo semestre 2026 | Por confirmar          | Por confirmar                            |
+
