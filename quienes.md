@@ -9,7 +9,7 @@ subtitle: El equipo
 <style>
   .person-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(3, 1fr); /* Fixed 3 columns */
     gap: 2rem;
     margin-top: 2rem;
   }
@@ -57,6 +57,20 @@ subtitle: El equipo
     font-size: 0.85rem;
     color: #666;
   }
+
+  @media (max-width: 900px) {
+    .person-grid {
+      overflow-x: auto;
+      display: flex;
+      gap: 1.5rem;
+      padding-bottom: 1rem;
+    }
+
+    .person-card {
+      min-width: 280px;
+      flex-shrink: 0;
+    }
+  }
 </style>
 
 <div class="person-grid">
@@ -101,6 +115,7 @@ subtitle: El equipo
 </div>
 
 </div>
+
 
 
 
