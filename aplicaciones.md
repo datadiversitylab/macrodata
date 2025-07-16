@@ -13,10 +13,8 @@ Gracias por tu interés en ser parte de este proyecto de formación en programac
 ## ¿Cómo aplicar?
 
 1. **Lee atentamente información en la pagina web.** Allí encontrarás las fechas, requisitos y sedes confirmadas.
-2. **Completa el formulario de aplicación.** No necesitas experiencia previa, pero sí motivación y compromiso.
+2. **Completa el formulario de aplicación.** No necesitas experiencia previa, pero sí motivación y compromiso. [*Puedes acceder al formulario haciendo click aqui*](https://nextcloud.datadiversitylab.synology.me/apps/forms/s/ybJmkt7cW7o4nHF3nQs49nFx).
 3. **Espera la publicación de resultados.** Los listados se publicarán en la sección de Aplicaciones y serán notificados por correo.
-
-📌 *El enlace al formulario estará disponible durante el periodo de inscripciones.*
 
 ---
 
