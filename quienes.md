@@ -84,7 +84,7 @@ subtitle: El equipo
     🌎 <a href="https://datadiversitylab.github.io">Sitio web</a> · 🐦 <a href="https://bsky.app/profile/cromanpa.bsky.social">BlueSky</a>
   </div>
   <p>
-    El proyecto está liderado por el Dr. Cristian Román-Palacios, ecólogo y biólogo evolutivo, actualmente Profesor Asistente en la Universidad de Arizona. Además, es miembro del Center for Diverse Leadership in Science de la Universidad de California en Los Ángeles, donde realiza actividades de extensión con comunidades locales en el área de Los Ángeles. Su trabajo combina investigación en biología evolutiva, conservación y ciencia de datos, con un interés particular en desarrollar herramientas bioinformáticas para entender mejor la diversidad biológica.
+    Ecólogo y biólogo evolutivo, actualmente Profesor Asistente en la Universidad de Arizona. Miembro del Center for Diverse Leadership in Science de la Universidad de California en Los Ángeles. Su trabajo combina investigación en biología evolutiva, conservación y ciencia de datos, con un interés particular en desarrollar herramientas bioinformáticas para entender mejor la diversidad biológica.
   </p>
   <div class="interests">`#R` `#filogenia` `#cienciaabierta` `#macroevolución`</div>
 </div>
@@ -97,7 +97,7 @@ subtitle: El equipo
     🌎 <a href="#">Sitio web</a> · 🐦 <a href="#">BlueSky</a> · 💼 <a href="#">LinkedIn</a>
   </div>
   <p>
-    El proyecto cuenta también con la participación de Katherine Pérez- Castillo, bióloga colombiana con experiencia en investigación y trabajo de campo, con énfasis en análisis de biodiversidad particularmente en aves y ecología animal, asi como en trabajo comunitario y educación ambiental. Katherine ha estado involucrada en iniciativas de conservación y tiene habilidades técnicas en análisis de datos ecológicos usando R. Su conocimiento del contexto colombiano y sus conexiones locales son clave para el desarrollo y la implementación de este proyecto.
+    Bióloga con experiencia en investigación y trabajo de campo, con énfasis en análisis de biodiversidad particularmente en aves y ecología animal, asi como en trabajo comunitario y educación ambiental. Katherine ha estado involucrada en iniciativas de conservación y tiene habilidades técnicas en análisis de datos ecológicos usando R.
   </p>
   <div class="interests">`#educación` `#diversidad` `#redesregionales` `#gestióncientífica`</div>
 </div>
