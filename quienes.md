@@ -77,7 +77,7 @@ subtitle: El equipo
 
 
 <div class="person-card">
-  <img src="assets/img/cristian-roman-polacios-new.jpg" alt="Cristian Román Palacios">
+  <img src="/macrodata/assets/img/cristian-roman-polacios-new.jpg" alt="Cristian Román Palacios">
   <h3>Cristian Román Palacios</h3>
   <div class="role">Coordinación general y contenido académico</div>
   <div class="links">
@@ -90,7 +90,7 @@ subtitle: El equipo
 </div>
 
 <div class="person-card">
-  <img src="assets/img/Kathe.jpg" alt="Katherine Pérez Castillo">
+  <img src="/macrodata/assets/img/Kathe.jpg" alt="Katherine Pérez Castillo">
   <h3>Katherine Pérez Castillo</h3>
   <div class="role">Logística, apoyo institucional y comunicación</div>
   <div class="links">
@@ -103,7 +103,7 @@ subtitle: El equipo
 </div>
 
 <div class="person-card">
-  <img src="assets/img/Natalia.jpg" alt="Natalia Ramírez">
+  <img src="/macrodata/assets/img/Natalia.jpg" alt="Natalia Ramírez">
   <h3>Natalia Ramírez</h3>
   <div class="role">Desarrollo de recursos y acompañamiento técnico</div>
   <div class="links">
