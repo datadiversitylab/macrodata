@@ -79,7 +79,7 @@ subtitle: El equipo
 <div class="person-card">
   <img src="/macrodata/assets/img/cristian-roman-polacios-new.jpg" alt="Cristian Román Palacios">
   <h3>Cristian Román Palacios</h3>
-  <div class="role">Coordinación general y contenido académico</div>
+  <div class="role">Coordinación general</div>
   <div class="links">
     🌎 <a href="https://datadiversitylab.github.io">Sitio web</a> · 🐦 <a href="https://bsky.app/profile/cromanpa.bsky.social">BlueSky</a>
   </div>
@@ -92,7 +92,7 @@ subtitle: El equipo
 <div class="person-card">
   <img src="/macrodata/assets/img/Kathe.jpg" alt="Katherine Pérez Castillo">
   <h3>Katherine Pérez Castillo</h3>
-  <div class="role">Logística, apoyo institucional y comunicación</div>
+  <div class="role">Logística</div>
   <div class="links">
     🌎 <a href="#">Sitio web</a> · 🐦 <a href="#">BlueSky</a> · 💼 <a href="#">LinkedIn</a>
   </div>
@@ -105,7 +105,7 @@ subtitle: El equipo
 <div class="person-card">
   <img src="/macrodata/assets/img/Natalia.jpg" alt="Natalia Ramírez">
   <h3>Natalia Ramírez</h3>
-  <div class="role">Desarrollo de recursos y acompañamiento técnico</div>
+  <div class="role">Acompañamiento técnico</div>
   <div class="links">
     🌎 <a href="#">Sitio web</a> · 🐦 <a href="#">BlueSky</a> · 💼 <a href="#">LinkedIn</a>
   </div>
