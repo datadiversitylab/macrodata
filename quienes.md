@@ -4,8 +4,6 @@ title: Quienes somos
 subtitle: El equipo
 ---
 
-# Equipo MacroData
-
 <style>
   .person-grid {
     display: grid;
@@ -84,7 +82,7 @@ subtitle: El equipo
     🌎 <a href="https://datadiversitylab.github.io">Sitio web</a> · 🐦 <a href="https://bsky.app/profile/cromanpa.bsky.social">BlueSky</a>
   </div>
   <p>
-    Ecólogo y biólogo evolutivo, actualmente Profesor Asistente en la Universidad de Arizona. Miembro del Center for Diverse Leadership in Science de la Universidad de California en Los Ángeles. Su trabajo combina investigación en biología evolutiva, conservación y ciencia de datos, con un interés particular en desarrollar herramientas bioinformáticas para entender mejor la diversidad biológica.
+    Ecólogo y biólogo evolutivo, actualmente Profesor Asistente en la Universidad de Arizona. Su trabajo combina investigación en biología evolutiva, conservación y ciencia de datos, con un interés particular en desarrollar herramientas bioinformáticas para entender mejor la diversidad biológica.
   </p>
   <div class="interests">`#R` `#filogenia` `#cienciaabierta` `#macroevolución`</div>
 </div>
