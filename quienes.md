@@ -6,8 +6,6 @@ subtitle: El equipo
 
 # Equipo MacroData
 
-# 🧑🏽‍🔬 Equipo MacroData
-
 <style>
   .person-grid {
     display: grid;
