@@ -105,10 +105,10 @@ subtitle: El equipo
   <h3>Natalia Ramírez</h3>
   <div class="role">Acompañamiento técnico</div>
   <div class="links">
-    🌎 <a href="#">Sitio web</a> · 🐦 <a href="#">BlueSky</a> · 💼 <a href="#">LinkedIn</a>
+    🌎 <a href="#">Sitio web</a> · 🐦 <a href="#">BlueSky</a>
   </div>
   <p>
-    (Descripción breve sobre la persona, trayectoria o rol en el proyecto).
+    Estudiante de Biología con interés en ecología y evolución. Actualmente investiga el efecto de características ecológicas y biogeográficas de los páramos sobre la riqueza de aves en Colombia, utilizando R y otras herramientas de análisis de datos. Natalia ha colaborado en tareas administrativas relacionadas con actividades investigativas.
   </p>
   <div class="interests">`#programación` `#Rstats` `#recursosabiertos` `#pedagogía`</div>
 </div>
