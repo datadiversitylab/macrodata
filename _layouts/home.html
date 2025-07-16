@@ -4,13 +4,53 @@ layout: page
 
 {{ content }}
 
-<div class="welcome-message">
+<style>
+  .welcome-box {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.85); /* semi-transparent background */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4px); /* subtle blur behind */
+    text-align: center;
+    font-family: sans-serif;
+  }
+
+  .welcome-box h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+  }
+
+  .welcome-box p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  @media (max-width: 600px) {
+    .welcome-box {
+      padding: 1.5rem;
+    }
+
+    .welcome-box h1 {
+      font-size: 1.6rem;
+    }
+
+    .welcome-box p {
+      font-size: 1rem;
+    }
+  }
+</style>
+
+<div class="welcome-box">
   <h1>Bienvenidx a MacroData!</h1>
   <p>
     MacroData es una iniciativa para fortalecer la programación y el análisis de datos en biología evolutiva, con énfasis en ciencia abierta y colaboración entre estudiantes, docentes e investigadorxs en Colombia y América Latina. Nuestro objetivo principal es apoyar a estudiantes e investigadores colombianos en biología mediante la introducción de habilidades fundamentales de programación en R, contextualizadas en métodos comparativos filogenéticos (PCM).
   </p>
   <p>
-    En esta pagina, puedes explorar nuestras lineamientos de aplicación, objetivos del proyecto, publicaciones, recursos, talleres, entre otros.
+    En esta página, puedes explorar nuestras políticas de aplicación, objetivos del proyecto, publicaciones, recursos, talleres, entre otros.
   </p>
 </div>
 
