@@ -10,10 +10,13 @@ MacroData se desarrollará entre finales de 2025 y todo el año 2026, en distint
 
 | Lugar del taller                                            | Fechas del taller         | Fechas de inscripción | Publicación de selección de estudiantes |
 |-------------------------------------------------------------|---------------------------|------------------------|------------------------------------------|
-TBD    | Noviembre xx–xx 2025     | Octubre xx–xx 2025     | 1 de noviembre de 2025                   |
+TBD    | Noviembre 15–16, 2025**     | Octubre 3, 2025     | Octubre 15, 2025                   |
 TBD            | Primer semestre 2026     | Por confirmar          | Por confirmar                            |
 TBD | Segundo semestre 2026    | Por confirmar          | Por confirmar                            |
 TBD | Segundo semestre 2026 | Por confirmar          | Por confirmar                            |
+
+
+**Llegada Noviembre 15 y salida, Noviembre 17.
 
 # Estructura detallada
 
