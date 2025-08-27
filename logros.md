@@ -27,3 +27,6 @@ Aquí se detallarán los canales de comunicación y redes de MacroData. Comparti
 ## Comunidad
 
 Estamos explorando herramientas como **Mattermost** o la creación de un **foro abierto**, donde participantes e interesadxs puedan compartir dudas, proyectos y recursos.
+
+![Alt text](/macrodata/assets/img/mattermost.jpg)
+
