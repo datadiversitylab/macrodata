@@ -16,6 +16,8 @@ Gracias por tu interés en ser parte de este proyecto de formación en programac
 2. **Completa el formulario de aplicación.** No necesitas experiencia previa, pero sí motivación y compromiso. [*Puedes acceder al formulario haciendo click aqui*](https://nextcloud.datadiversitylab.synology.me/apps/forms/s/ybJmkt7cW7o4nHF3nQs49nFx).
 3. **Espera la publicación de resultados.** Los listados se publicarán en la sección de Aplicaciones y serán notificados por correo.
 
+![nextcloud logo](/macrodata/assets/img/Nextcloud_Logo.png)
+
 ---
 
 ¿Tienes preguntas o necesitas ayuda para aplicar?  
