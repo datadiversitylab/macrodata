@@ -14,12 +14,12 @@ Durante los cursos, exploraremos los fundamentos de programación y ciencia de d
 ## 2. Aplicar métodos comparativos filogenéticos  
 Abordaremos conceptos clave en macroevolución utilizando herramientas recientes en el campo. Este enfoque nos permitirá construir y analizar filogenias con datos reales, haciendo énfasis en cómo aplicar estos métodos a preguntas evolutivas concretas.
 
-![objective](/macrodata/assets/img/Objetivo 2_A.jpg)
+![objective](/macrodata/assets/img/Objetivo 2_A.png)
 
 ## 3. Crear comunidad  
 Más allá de los contenidos técnicos, MacroData busca generar lazos entre los asistentes. Queremos que compartan ideas, se apoyen en nuevos proyectos y continúen conectados luego de los talleres. Creemos que la comunidad científica crece cuando sus integrantes se escuchan, colaboran y se acompañan.
 
-![objective](/macrodata/assets/img/Objetivo 3_A.jpg)
+![objective](/macrodata/assets/img/Objetivo 3_A.png)
 
 ## 4. Publicar juntos  
 Uno de los resultados concretos del curso será una publicación científica colaborativa. Queremos que quienes participen se involucren en todas las etapas del análisis y subsecuentemente en escritura, y que figuren como coautores de un trabajo producto del aprendizaje colectivo.
@@ -29,7 +29,7 @@ Uno de los resultados concretos del curso será una publicación científica col
 ## 5. Dejar huella digital  
 Todo lo aprendido y construido en MacroData vivirá en esta plataforma digital abierta. Aquí reuniremos materiales de los talleres, scripts, herramientas, guías y todos los logros del proyecto. Será un espacio para permitir que experiencias similares tengan una estructura mas simple para iniciar.
 
-![objective](/macrodata/assets/img/Objetivo 5_A.jpg)
+![objective](/macrodata/assets/img/Objetivo 5_A.png)
 
 ---
 
