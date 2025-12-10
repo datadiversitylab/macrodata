@@ -8,6 +8,8 @@ subtitle: Detalles sobre las políticas en MacroData
 
 En MacroData apoyaos la ciencia abierta, colaborativa y justa. Por eso, nos guiamos por una serie de principios que buscan garantizar el respeto mutuo y el reconocimiento del trabajo colectivo. Aquí compartimos nuestras políticas principales:
 
+![politicas](/macrodata/assets/img/Politicas.jpg)
+
 ---
 
 ## Selección de candidatxs
