@@ -20,6 +20,10 @@ Gracias por tu interés en ser parte de este proyecto de formación en programac
 
 ---
 
-¿Tienes preguntas o necesitas ayuda para aplicar?  
+## ¿Tienes preguntas o necesitas ayuda para aplicar?  
+
 Puedes escribirnos a [SI-DSEVO@arizona.edu](mailto:SI-DSEVO@arizona.edu) o dejarnos un mensaje en nuestros canales de contacto.
+
+![nextcloud](/macrodata/assets/img/Correo.png)
+
 
