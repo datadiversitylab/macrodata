@@ -10,7 +10,7 @@ subtitle: Qué es MacroData, por qué existe y hacia dónde va
 
 ![Concepto](/macrodata/assets/img/MacrodataConcepto.png)
 
-Durante el desarrollo del proyecto (2024 y 2025), se pretende generar información base en ciencia de datos y erramientas en macroevolución, comunicarla mediante cursos cortos presenciales, y propiciar la creación de conexiones claras y duraderas entre quienes participen en el curso o se beneficien de los recursos. Los talleres presenciales estarán enfocados en el uso de **R** (tanto introductorio como para el desarrollo de recursos), en la aplicación de métodos filogenéticos comparativos, y en la discusión de herramientas en macroevolución desarrolladas por investigadores en América del Sur.
+Durante el desarrollo del proyecto (2024 y 2025), se pretende generar información base en ciencia de datos y herramientas en macroevolución, comunicarla mediante cursos cortos presenciales, y propiciar la creación de conexiones claras y duraderas entre quienes participen en el curso o se beneficien de los recursos. Los talleres presenciales estarán enfocados en el uso de **R** (tanto introductorio como para el desarrollo de recursos), en la aplicación de métodos filogenéticos comparativos, y en la discusión de herramientas en macroevolución desarrolladas por investigadores en América del Sur.
 
 ---
 
