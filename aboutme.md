@@ -10,13 +10,13 @@ subtitle: Qué es MacroData, por qué existe y hacia dónde va
 
 ![Concepto](/macrodata/assets/img/MacrodataConcepto.png)
 
-Durante el desarrollo del proyecto (2024 y 2025), se pretende generar información base en ciencia de datos y herramientas en macroevolución, comunicarla mediante cursos cortos presenciales, y propiciar la creación de conexiones claras y duraderas entre quienes participen en el curso o se beneficien de los recursos. Los talleres presenciales estarán enfocados en el uso de **R** (tanto introductorio como para el desarrollo de recursos), en la aplicación de métodos filogenéticos comparativos, y en la discusión de herramientas en macroevolución desarrolladas por investigadores en América del Sur.
+Durante el desarrollo del proyecto (2025 y 2026), se pretende generar información base en ciencia de datos y herramientas en macroevolución, comunicarla mediante cursos cortos presenciales, y propiciar la creación de conexiones claras y duraderas entre quienes participen en el curso o se beneficien de los recursos. Los talleres presenciales estarán enfocados en el uso de **R** (tanto introductorio como para el desarrollo de recursos), en la aplicación de métodos filogenéticos comparativos, y en la discusión de herramientas en macroevolución desarrolladas por investigadores en América del Sur.
 
 ---
 
 ## ¿Por qué hablar de software científico en América Latina?
 
-Aunque en América Latina se ha avanzado en el uso de la programación en biología, la creación de herramientas propias sigue siendo limitada. Actualmente, gran parte de los paquetes y metodologías utilizadas en bioinformática provienen del Norte Global, lo que genera una dependencia tecnológica que restringe de alguna forma la autonomía investigativa. Este proyecto busca a largo plazo cambiar esa dinámica, inticando una nueva generación de científicxs con habilidades técnicas para desarrollar sus propias herramientas de análisis, y con una visión crítica y colaborativa de la ciencia.
+Aunque en América Latina se ha avanzado en el uso de la programación en biología, la creación de herramientas propias sigue siendo limitada. Actualmente, gran parte de los paquetes y metodologías utilizadas en bioinformática provienen del Norte Global, lo que genera una dependencia tecnológica que restringe de alguna forma la autonomía investigativa. Este proyecto busca a largo plazo cambiar esa dinámica, promoviendo una nueva generación de científicxs con habilidades técnicas para desarrollar sus propias herramientas de análisis, y con una visión crítica y colaborativa de la ciencia.
 
 ---
 
