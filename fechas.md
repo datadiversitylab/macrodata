@@ -11,19 +11,19 @@ MacroData se desarrollará entre finales de 2025 y todo el año 2026, en distint
 
 | Lugar del taller                                            | Fechas del taller         | Fechas de inscripción | Publicación de selección de estudiantes |
 |-------------------------------------------------------------|---------------------------|------------------------|------------------------------------------|
-TBD    | Noviembre 15–16, 2025**     | Octubre 3, 2025     | Octubre 15, 2025                   |
-TBD            | Primer semestre 2026     | Por confirmar          | Por confirmar                            |
+TBD    | Julio 21–22, 2026**     | XXXX, 2025     | XXXX, 2025                   |
+TBD            | Segundo semestre 2026     | Por confirmar          | Por confirmar                            |
 TBD | Segundo semestre 2026    | Por confirmar          | Por confirmar                            |
 TBD | Segundo semestre 2026 | Por confirmar          | Por confirmar                            |
 
-**Llegada Noviembre 15 y salida, Noviembre 17.
+**Llegada Julio 21 y salida, Julio 22.
 
 ![objective](/macrodata/assets/img/LogoR_Fechas.png)
 
 
 # Estructura detallada
 
-MacroData es un taller intensivo de dos días que busca introducir a estudiantes de Biología en el uso de herramientas de programación en R y métodos comparativos filogenéticos. A través de sesiones teóricas y prácticas, aprenderán a manipular datos, trabajar con filogenias y explorar preguntas macroevolutivas usando principios de ciencia abierta. Como resultado del proceso formativo se desarrollará una publicación científica colaborativa con la contribucion de todos los cada participante. Si quieres revisar la estructura detallada del curso, puedes ingresar a la version mas reciente usando [este enlace](https://nextcloud.datadiversitylab.synology.me/s/RpAYTQgPBt44kSq).
+MacroData es un taller intensivo de dos días que busca introducir a estudiantes de Biología en el uso de herramientas de programación en R y métodos comparativos filogenéticos. A través de sesiones teóricas y prácticas, aprenderán a manipular datos, trabajar con filogenias y explorar preguntas macroevolutivas usando principios de ciencia abierta. Como resultado del proceso formativo se desarrollará una publicación científica colaborativa con la contribución de cada participante. Si quieres revisar la estructura detallada del curso, puedes ingresar a la versión más reciente usando [este enlace](https://nextcloud.datadiversitylab.synology.me/s/RpAYTQgPBt44kSq).
 
 ![objective](/macrodata/assets/img/Tree_of_Angiosperm_Phylogeny_2024.jpg)
 
