@@ -17,12 +17,12 @@ Abordaremos conceptos clave en macroevolución utilizando herramientas recientes
 ![objective](/macrodata/assets/img/Objetivo 2_A.png)
 
 ## 3. Crear comunidad  
-Más allá de los contenidos técnicos, MacroData busca generar lazos entre los asistentes. Queremos que compartan ideas, se apoyen en nuevos proyectos y continúen conectados luego de los talleres. Creemos que la comunidad científica crece cuando sus integrantes se escuchan, colaboran y se acompañan.
+Más allá de los contenidos técnicos, MacroData busca generar lazos entre los asistentes. Queremos que compartan ideas, se apoyen en nuevos proyectos y continúen conectados durante, y después de la participacion en los talleres. Creemos que la comunidad científica crece cuando sus integrantes se escuchan, colaboran y se acompañan.
 
 ![objective](/macrodata/assets/img/Objetivo 3_A.png)
 
 ## 4. Publicar juntos  
-Uno de los resultados concretos del curso será una publicación científica colaborativa. Queremos que quienes participen se involucren en todas las etapas del análisis y subsecuentemente en escritura, y que figuren como coautores de un trabajo producto del aprendizaje colectivo.
+Uno de los resultados concretos del curso será una publicación científica colaborativa. Queremos que quienes participen se involucren en todas las etapas del análisis, subsecuentemente en la escritura, y que figuren como coautores de un trabajo producto del aprendizaje colectivo.
 
 ![objective](/macrodata/assets/img/Objetivo 4_A.jpg)
 
