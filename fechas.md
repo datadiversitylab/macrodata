@@ -12,10 +12,8 @@ MacroData se desarrollará durante todo el año 2026, en distintos espacios acad
 | Lugar del taller                                            | Fechas del taller         | Fechas de inscripción | Publicación de selección de estudiantes |
 |-------------------------------------------------------------|---------------------------|------------------------|------------------------------------------|
 Universidad de la Salle    | Julio 21–22, 2026**     | Mayo 2026     | Mayo, 2026                   |
-Universidad del Atlántico
-           | Segundo semestre 2026     | Mayo 2026           | Mayo, 2026                            |
-Universidad de Nariño
- | Segundo semestre 2026    | Mayo 2026           | Mayo 2026                            |
+Universidad del Atlántico  | Segundo semestre 2026   | Mayo 2026     | Mayo, 2026                   |
+Universidad de Nariño | Segundo semestre 2026    | Mayo 2026           | Mayo 2026                            |
 Por confirmar | Segundo semestre 2026 | Mayo 2026          | Mayo 2026                             |
 
 **Llegada Julio 21 y salida, Julio 22.
