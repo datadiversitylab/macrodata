@@ -11,12 +11,14 @@ MacroData se desarrollará durante todo el año 2026, en distintos espacios acad
 
 | Lugar del taller                                            | Fechas del taller         | Fechas de inscripción | Publicación de selección de estudiantes |
 |-------------------------------------------------------------|---------------------------|------------------------|------------------------------------------|
-Universidad de la Salle    | Julio 21–22 2026**     | Mayo 2026     | Junio, 2026                   |
-Universidad del Atlántico  | Agosto 1-2 2026  | Mayo 2026     | Junio, 2026                   |
-Universidad de Nariño | Noviembre 21-22 2026    | Mayo 2026           | Junio 2026                            |
-UTCH | Noviembre 28-29 2026  | Mayo 2026          | Junio 2026                             |
+Universidad de la Salle    | Julio 21–22, 2026**     | Mayo, 2026     | Junio, 2026                   |
+Universidad del Atlántico  | Agosto 1-2, 2026  | Mayo, 2026     | Junio, 2026                   |
+Universidad de Nariño | Noviembre 21-22, 2026    | Mayo, 2026           | Junio, 2026                            |
+Por confirmar | Noviembre 28-29, 2026  | Mayo, 2026          | Junio, 2026                             |
 
 **Llegada Julio 21 y salida, Julio 22.
+
+Para iniciar tu postulación y participar en nuestro proceso de selección, por favor completa el siguiente formulario: https://nextcloud.datadiversitylab.synology.me/apps/forms/s/ybJmkt7cW7o4nHF3nQs49nFx
 
 ![objective](/macrodata/assets/img/Tree_of_Angiosperm_Phylogeny_2024.jpg)
 
