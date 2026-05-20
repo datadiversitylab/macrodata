@@ -40,3 +40,8 @@ Esperamos que todas las personas participantes:
 - Contribuyan a una comunidad científica solidaria.
 
 ---
+
+## Documentos de politicas
+- [Codigo de conducta](https://nextcloud.datadiversitylab.synology.me/s/GsJ57SzM3wATWKD)
+- [Tratamiento de datos](https://nextcloud.datadiversitylab.synology.me/s/bGjpENe5kLd7x3d)
+- [Rubrica de evaluacion participantes](https://nextcloud.datadiversitylab.synology.me/s/jEg7oJGGRcALBA2)
