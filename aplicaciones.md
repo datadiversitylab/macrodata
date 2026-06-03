@@ -16,14 +16,14 @@ Gracias por tu interés en ser parte de este proyecto de formación en programac
 2. **Completa el formulario de aplicación.** No necesitas experiencia previa, pero sí motivación y compromiso. [*Puedes acceder al formulario haciendo click aqui*](https://nextcloud.datadiversitylab.synology.me/apps/forms/s/ybJmkt7cW7o4nHF3nQs49nFx).
 3. **Espera la publicación de resultados.** Los listados se publicarán en la sección de Aplicaciones y serán notificados por correo.
 
-![nextcloud](/macrodata/assets/img/Nextcloud_Logo.png)
+---
+
+## Quieres apoyar durante la instrucción?
+
+Si quieres unirte como instructor(@) en alguno de nuestros eventos? Puedes expresar interes usando [este formulario](https://nextcloud.datadiversitylab.synology.me/apps/forms/s/WwsZoWDSnpWAFmBT6SnEoHmZ). Tambien puedes escribirnos directamente a [SI-DSEVO@arizona.edu](mailto:SI-DSEVO@arizona.edu).
 
 ---
 
 ## ¿Tienes preguntas o necesitas ayuda para aplicar?  
 
 Puedes escribirnos a [SI-DSEVO@arizona.edu](mailto:SI-DSEVO@arizona.edu) o dejarnos un mensaje en nuestros canales de contacto.
-
-![Correo](/macrodata/assets/img/Correo.png)
-
-
