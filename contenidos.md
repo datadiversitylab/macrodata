@@ -39,3 +39,6 @@ MacroData es un taller intensivo de dos días que busca introducir a estudiantes
 ## Proyecto final
 - Aplicación de lo aprendido en un análisis real.
 - Discusión y escritura colectiva de un manuscrito científico.
+
+# GitHub
+Todo el codigo relacionado con este curso estará depositado en el siguiente repositorio: https://github.com/datadiversitylab/macrodata-taller.
