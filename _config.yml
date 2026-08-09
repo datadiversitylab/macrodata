@@ -21,6 +21,8 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
 
+favicon: "/assets/img/avatar-icon.png"
+
 social-network-links:
   email: "SI-DSEVO@arizona.edu"
 
