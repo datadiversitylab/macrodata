@@ -1,0 +1,75 @@
+<div class="map-section full-bleed">
+  <div class="section-header">
+    <h2>Presencia en Colombia</h2>
+    <p>Cada punto marca una sede. Los talleres llegan a distintas regiones del país.</p>
+  </div>
+  <div id="colombia-map"></div>
+</div>
+
+<script>
+(function () {
+  function initMap() {
+    if (typeof L === 'undefined') return;
+
+    var map = L.map('colombia-map', {
+      center: [5.5, -74.0],
+      zoom: 5,
+      scrollWheelZoom: false,
+      zoomControl: true
+    });
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      subdomains: 'abcd',
+      maxZoom: 18
+    }).addTo(map);
+
+    var statusColor = {
+      completado: '#0085A1',
+      activo:     '#28a745',
+      proximo:    '#bbb'
+    };
+
+    var events = [
+      {% for ev in site.data.events %}
+      {
+        name:   "{{ ev[1].name }}",
+        city:   "{{ ev[1].city }}",
+        dates:  "{{ ev[1].dates }}",
+        status: "{{ ev[1].status }}",
+        lat:    {{ ev[1].lat }},
+        lng:    {{ ev[1].lng }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ];
+
+    events.forEach(function (ev) {
+      var color = statusColor[ev.status] || '#0085A1';
+
+      var marker = L.circleMarker([ev.lat, ev.lng], {
+        radius:      11,
+        fillColor:   color,
+        color:       '#fff',
+        weight:      2.5,
+        opacity:     1,
+        fillOpacity: 0.88
+      }).addTo(map);
+
+      var statusLabel = ev.status.charAt(0).toUpperCase() + ev.status.slice(1);
+
+      marker.bindPopup(
+        '<strong>' + ev.name + '</strong><br>' +
+        '<small style="color:#666">' + ev.city + ' · ' + ev.dates + '</small><br>' +
+        '<small>' + statusLabel + '</small>',
+        { maxWidth: 220 }
+      );
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initMap);
+  } else {
+    initMap();
+  }
+}());
+</script>

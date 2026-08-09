@@ -1,0 +1,40 @@
+{% assign ev = site.data.events[include.event] %}
+{% if ev %}
+<div class="gallery-section" id="galeria-{{ include.event }}">
+
+  <h3>
+    {{ ev.name }}, {{ ev.city }}
+    {% if ev.status == "completado" %}
+      <span class="event-status completado">Completado</span>
+    {% elsif ev.status == "activo" %}
+      <span class="event-status activo">En curso</span>
+    {% else %}
+      <span class="event-status proximo">Próximo · {{ ev.dates }}</span>
+    {% endif %}
+  </h3>
+
+  {% if ev.main_photo.src and ev.main_photo.src != "" %}
+  <div class="event-main-photo">
+    <img src="{{ ev.main_photo.src | absolute_url }}" alt="Foto grupal — {{ ev.name }}">
+    {% if ev.main_photo.participants.size > 0 %}
+    <p class="event-participants">
+      <span>Participantes:</span> {% for line in ev.main_photo.participants %}{{ line }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}
+    </p>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  {% if ev.gallery.size > 0 %}
+  <div class="gallery-grid">
+    {% for photo in ev.gallery %}
+    <figure class="gallery-item">
+      <img src="{{ photo | absolute_url }}" alt="{{ ev.name }}" loading="lazy">
+    </figure>
+    {% endfor %}
+  </div>
+  {% elsif ev.main_photo.src == nil or ev.main_photo.src == "" %}
+  <p class="gallery-placeholder">Las fotos de este taller estarán disponibles pronto.</p>
+  {% endif %}
+
+</div>
+{% endif %}

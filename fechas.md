@@ -18,5 +18,6 @@ Universidad Tecnológica del Chocó | Noviembre 28-29, 2026  | Septiembre 15, 20
 
 Para iniciar tu postulación y participar en nuestro proceso de selección, por favor completa el [siguiente formulario](https://nextcloud.datadiversitylab.synology.me/apps/forms/s/ybJmkt7cW7o4nHF3nQs49nFx).
 
-![objective](/macrodata/assets/img/Tree_of_Angiosperm_Phylogeny_2024.jpg)
+Las fotos de cada taller están disponibles en la [galería]({{ '/galerias' | absolute_url }}).
 
+![objective](/macrodata/assets/img/Tree_of_Angiosperm_Phylogeny_2024.jpg)

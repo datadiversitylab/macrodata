@@ -1,0 +1,274 @@
+/* ==========================================================
+   MacroData — custom styles
+   All new components live here. Do not edit beautifuljekyll.css.
+   ========================================================== */
+
+/* --- Full-bleed helper (breaks out of Bootstrap's constrained column) --- */
+body { overflow-x: hidden; }
+
+.full-bleed {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+/* --- Stats section --- */
+.stats-section {
+  background: linear-gradient(135deg, #0085A1 0%, #005f75 100%);
+  color: #fff;
+  padding: 3.5rem 1.5rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.stats-section .stats-label {
+  font-size: 0.8rem;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.75;
+  margin-bottom: 2rem;
+}
+
+.stats-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem 3.5rem;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.stat-item { min-width: 110px; }
+
+.stat-item i {
+  font-size: 1.4rem;
+  opacity: 0.75;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+.stat-number {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1;
+  display: block;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.stat-label {
+  font-size: 0.78rem;
+  opacity: 0.8;
+  margin-top: 0.35rem;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+/* --- Colombia map section --- */
+.map-section {
+  padding: 3rem 1.5rem;
+  background: #fff;
+}
+
+.map-section .section-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.map-section .section-header h2 {
+  font-size: 1.75rem;
+  margin-bottom: 0.4rem;
+}
+
+.map-section .section-header p {
+  color: #777;
+  max-width: 540px;
+  margin: 0 auto;
+  font-size: 0.95rem;
+}
+
+#colombia-map {
+  height: 460px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  max-width: 860px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* --- Gallery section header --- */
+.gallery-section {
+  margin: 2.5rem 0 1.5rem;
+}
+
+.gallery-section h3 {
+  font-size: 1.1rem;
+  color: #0085A1;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgba(0, 133, 161, 0.18);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+/* --- Main event photo --- */
+.event-main-photo {
+  margin-bottom: 1.5rem;
+}
+
+.event-main-photo img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+  max-height: 520px;
+  object-fit: cover;
+}
+
+.event-participants {
+  font-size: 0.82rem;
+  color: #999;
+  margin-top: 0.6rem;
+  line-height: 1.55;
+  margin-bottom: 0;
+}
+
+.event-participants span {
+  font-weight: 600;
+  color: #777;
+}
+
+/* --- Gallery grid (no captions) --- */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+  gap: 6px;
+  margin-top: 0.75rem;
+}
+
+.gallery-item {
+  margin: 0;
+  overflow: hidden;
+  border-radius: 7px;
+  cursor: zoom-in;
+  position: relative;
+  background: #eee;
+  line-height: 0;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 145px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.gallery-item:hover img { transform: scale(1.06); }
+
+.gallery-placeholder {
+  color: #aaa;
+  padding: 1.5rem;
+  background: #f7f7f7;
+  border-radius: 8px;
+  border: 1px dashed #ddd;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+/* --- Event status badges --- */
+.event-status {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  border-radius: 10px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+}
+
+.event-status.completado { background: #d4edda; color: #155724; }
+.event-status.proximo    { background: #fff3cd; color: #7d5800; }
+.event-status.activo     { background: #cce5ff; color: #004085; }
+
+/* --- Gallery lightbox (uses <dialog>) --- */
+dialog#gallery-lightbox {
+  border: none;
+  background: rgba(8, 8, 16, 0.97);
+  max-width: 96vw;
+  max-height: 96vh;
+  padding: 1rem 1rem 1.25rem;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  position: fixed;
+}
+
+dialog#gallery-lightbox::backdrop { background: rgba(0, 0, 0, 0.82); }
+
+dialog#gallery-lightbox img {
+  max-width: 88vw;
+  max-height: 80vh;
+  object-fit: contain;
+  border-radius: 4px;
+  display: block;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.9rem;
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 1.9rem;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0;
+  transition: color 0.2s;
+  z-index: 10;
+}
+
+.lightbox-close:hover { color: #fff; }
+
+.lightbox-caption {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.85rem;
+  text-align: center;
+  margin: 0;
+  min-height: 1.1rem;
+}
+
+/* --- Hero banner text --- */
+.intro-header.big-img .page-heading h1 {
+  font-size: 2.9rem;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.intro-header.big-img .page-subheading {
+  font-size: 1.15rem;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.45);
+  opacity: 0.95;
+}
+
+/* --- Welcome box tweak --- */
+.welcome-box { max-width: 860px !important; }
+
+/* --- Responsive --- */
+@media (max-width: 640px) {
+  .stat-number  { font-size: 2.1rem; }
+  .stats-grid   { gap: 1.2rem 2rem; }
+  #colombia-map { height: 320px; }
+  .gallery-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+  .gallery-item img { height: 120px; }
+  .intro-header.big-img .page-heading h1 { font-size: 2rem; }
+  .event-main-photo img { max-height: 320px; }
+}

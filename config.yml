@@ -1,0 +1,159 @@
+# Decap CMS configuration
+# Docs: https://decapcms.org/docs/configuration-options/
+#
+# SETUP STEPS:
+# 1. Create a free account at https://app.netlify.com
+# 2. "Add new site" → "Import an existing project" → connect your GitHub repo
+#    (You don't need to actually deploy via Netlify — just connect the repo.)
+# 3. In Netlify: Site configuration → Identity → Enable Identity
+# 4. In Netlify: Identity → Services → Git Gateway → Enable
+# 5. Update `repo` below to match your GitHub username/repo-name
+# 6. Visit https://your-site.github.io/admin/ and log in
+
+backend:
+  name: git-gateway
+  branch: master  # change to "main" if that's your default branch
+
+media_folder: "assets/img"
+public_folder: "/assets/img"
+
+collections:
+
+  # ── Pages ──────────────────────────────────────────────────────────────────
+  - name: "pages"
+    label: "Páginas"
+    files:
+
+      - label: "El Proyecto (aboutme)"
+        name: "aboutme"
+        file: "aboutme.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Subtítulo", name: "subtitle", widget: "string" }
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+      - label: "Logros y recursos"
+        name: "logros"
+        file: "logros.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+      - label: "Objetivos"
+        name: "objetivos"
+        file: "objetivos.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+      - label: "Contenidos del taller"
+        name: "contenidos"
+        file: "contenidos.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+      - label: "Políticas"
+        name: "politicas"
+        file: "politicas.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+      - label: "Aplicaciones"
+        name: "aplicaciones"
+        file: "aplicaciones.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+      - label: "Quiénes somos"
+        name: "quienes"
+        file: "quienes.md"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Contenido (HTML/Markdown)", name: "body", widget: "markdown" }
+
+  # ── Noticias (blog posts) ──────────────────────────────────────────────────
+  - name: "posts"
+    label: "Noticias"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Subtítulo", name: "subtitle", widget: "string", required: false }
+      - { label: "Imagen miniatura", name: "thumbnail-img", widget: "image", required: false }
+      - { label: "Etiquetas", name: "tags", widget: "list", required: false }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  # ── Stats strip ────────────────────────────────────────────────────────────
+  - name: "data"
+    label: "Datos del sitio"
+    files:
+
+      - label: "Estadísticas (inicio)"
+        name: "stats"
+        file: "_data/stats.yml"
+        fields:
+          - { label: "Talleres", name: "workshops", widget: "number" }
+          - { label: "Universidades", name: "universities", widget: "number" }
+          - { label: "Estudiantes", name: "students", widget: "number" }
+          - { label: "Ciudades", name: "cities", widget: "number" }
+          - { label: "Instructores", name: "instructors", widget: "number" }
+
+      - label: "Eventos y galerías"
+        name: "events"
+        file: "_data/events.yml"
+        fields:
+          - label: "Universidad de la Salle"
+            name: "lasalle"
+            widget: "object"
+            fields:
+              - { label: "Estado", name: "status", widget: "select", options: ["completado", "activo", "proximo"] }
+              - label: "Galería de fotos"
+                name: "gallery"
+                widget: "list"
+                summary: "{{fields.alt}}"
+                fields:
+                  - { label: "Imagen", name: "src", widget: "image" }
+                  - { label: "Descripción breve", name: "alt", widget: "string" }
+
+          - label: "Universidad del Atlántico"
+            name: "atlantico"
+            widget: "object"
+            fields:
+              - { label: "Estado", name: "status", widget: "select", options: ["completado", "activo", "proximo"] }
+              - label: "Galería de fotos"
+                name: "gallery"
+                widget: "list"
+                summary: "{{fields.alt}}"
+                fields:
+                  - { label: "Imagen", name: "src", widget: "image" }
+                  - { label: "Descripción breve", name: "alt", widget: "string" }
+
+          - label: "Universidad de Nariño"
+            name: "narino"
+            widget: "object"
+            fields:
+              - { label: "Estado", name: "status", widget: "select", options: ["completado", "activo", "proximo"] }
+              - label: "Galería de fotos"
+                name: "gallery"
+                widget: "list"
+                summary: "{{fields.alt}}"
+                fields:
+                  - { label: "Imagen", name: "src", widget: "image" }
+                  - { label: "Descripción breve", name: "alt", widget: "string" }
+
+          - label: "Universidad Tecnológica del Chocó"
+            name: "choco"
+            widget: "object"
+            fields:
+              - { label: "Estado", name: "status", widget: "select", options: ["completado", "activo", "proximo"] }
+              - label: "Galería de fotos"
+                name: "gallery"
+                widget: "list"
+                summary: "{{fields.alt}}"
+                fields:
+                  - { label: "Imagen", name: "src", widget: "image" }
+                  - { label: "Descripción breve", name: "alt", widget: "string" }
