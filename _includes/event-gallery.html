@@ -18,7 +18,8 @@
     <img src="{{ ev.main_photo.src | absolute_url }}" alt="Foto grupal — {{ ev.name }}">
     {% if ev.main_photo.participants.size > 0 %}
     <p class="event-participants">
-      <span>Participantes:</span> {% for line in ev.main_photo.participants %}{{ line }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}
+      <span>Participantes:</span>
+      {% for line in ev.main_photo.participants %}{{ line }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}
     </p>
     {% endif %}
   </div>
@@ -28,7 +29,7 @@
   <div class="gallery-grid">
     {% for photo in ev.gallery %}
     <figure class="gallery-item">
-      <img src="{{ photo | absolute_url }}" alt="{{ ev.name }}" loading="lazy">
+      <img src="{{ photo.src | absolute_url }}" alt="{{ ev.name }}" loading="lazy">
     </figure>
     {% endfor %}
   </div>
