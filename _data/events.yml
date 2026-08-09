@@ -11,7 +11,7 @@ lasalle:
   lng: -74.0657
   status: "completado"
   main_photo:
-    src: /assets/img/events/lasalle/grupo.jpg
+    src: /assets/img/grupo_colevol.png
     participants:
       - "Arriba (izq. a der.): Juan David Rodríguez Pereira (Universidad Javeriana), Wendy Marcela Ortega Feria (Universidad de Sucre; MacroData), Raul Sedano (Universidad del Valle; MacroData), Guerly León (Universidad Nacional de Colombia, Bogotá; MacroData), Juan Jose Lemos (Universidad del Valle; ColEvol), Cristian Román-Palacios (MacroData), Maria Paula Naranjo Garcia (Jorge Tadeo Lozano; ColEvol), Juan Diego Moreno Agudelo (Universidad de Los Llanos), Juan José Quintero (Universidad del Quindio), Daniela Cardona Murillo (Universidad del Quindio), Andres Reyes (Universidad del Quindio), Thania Catalina Useche Acevedo (Universidad Central), Juan Sebastian Mondragon Ocampo (Universidad Tadeo Lozano), Erica Aristizabal (Universidad del Valle)"
       - "Abajo: Maria Carolina Zabala Cruz (Universidad Industrial de Santander), Gina Paola Sierra Reyes (Universidad Nacional de Colombia), Andres Giovanny Hernandez Ortega (Universidad de Antioquia), Katherine Perez-Castillo (MacroData), Erika Valentina Munevar Pachón (Universidad Nacional de Colombia), Natalia Ramirez (MacroData), Ada Acevedo Alonso (Universidad de Los Andes), Francisco Fajardo Gutiérrez (Freie Universität Berlin), Federico David Brown Almeida (Universidade de São Paulo), Andrés Restrepo (Colegio Cafam)"
@@ -25,7 +25,7 @@ atlantico:
   lng: -74.7813
   status: "completado"
   main_photo:
-    src: /assets/img/events/atlantico/grupo.jpg
+    src: /assets/img/grupo_colevol.png
     participants:
       - "Izquierda, Arriba: Melany Consuegra Solera (Universidad del Atlántico), Ana Victoria Correa Salas (Universidad del Atlántico), Cristian (Universidad Central, Bogotá), Katherine Perez (MacroData)"
       - "Izquierda, Centro: Cristian Román (MacroData), Johan Camilo Imbol Londoño (Universidad del Valle), Natalia (MacroData)"
