@@ -2,8 +2,11 @@
 # Docs: https://decapcms.org/docs/configuration-options/
 
 backend:
-  name: git-gateway
-  branch: main  # change to "master" if that's your branch
+  name: github
+  repo: datadiversitylab/macrodata
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 media_folder: "assets/img"
 public_folder: "/assets/img"
