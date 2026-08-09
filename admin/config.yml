@@ -2,8 +2,7 @@
 # Docs: https://decapcms.org/docs/configuration-options/
 
 backend:
-  name: github
-  repo: datadiversitylab/macrodata
+  name: git-gateway
   branch: master
 
 media_folder: "assets/img"
