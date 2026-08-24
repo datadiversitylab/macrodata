@@ -25,7 +25,7 @@ atlantico:
   lng: -74.7813
   status: "completado"
   main_photo:
-    src: /assets/img/Grupo_UniAtlantico.JPG
+    src: /assets/img/grupo_UniAtlantico.png
     participants:
       - "Izquierda, Arriba: Melany Consuegra Solera (Universidad del Atlántico), Ana Victoria Correa Salas (Universidad del Atlántico), Cristian (Universidad Central, Bogotá), Katherine Perez (MacroData)"
       - "Izquierda, Centro: Cristian Román (MacroData), Johan Camilo Imbol Londoño (Universidad del Valle), Natalia (MacroData)"
