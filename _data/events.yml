@@ -27,7 +27,9 @@ lasalle:
         (Universidad de Los Andes), Francisco Fajardo Gutiérrez (Freie
         Universität Berlin), Federico David Brown Almeida (Universidade de São
         Paulo), Andrés Restrepo (Colegio Cafam)"
-  gallery: []
+  gallery:
+    - src: /assets/img/dscf1033.jpg_compressed.jpeg
+    - src: /assets/img/dscf1020.jpg_compressed.jpeg
 atlantico:
   name: Universidad del Atlántico
   city: Barranquilla
