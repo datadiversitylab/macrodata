@@ -16,6 +16,6 @@ MacroData se desarrollará durante todo el año 2026, en distintos espacios acad
 
 Para iniciar tu postulación y participar en nuestro proceso de selección, por favor completa el [siguiente formulario](https://nextcloud.datadiversitylab.synology.me/apps/forms/s/ybJmkt7cW7o4nHF3nQs49nFx).
 
-Las fotos de cada taller están disponibles en la \[galería]({{ '/galerias' | absolute_url }}).
+Las fotos de cada taller están disponibles en la [galería](https://datadiversitylab.github.io/macrodata/galerias/).
 
 ![objective](/macrodata/assets/img/Tree_of_Angiosperm_Phylogeny_2024.jpg)
