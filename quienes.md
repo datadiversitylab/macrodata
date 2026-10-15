@@ -108,7 +108,7 @@ subtitle: El equipo
     🌎 <a href="#">Sitio web</a> · 🐦 <a href="#">BlueSky</a>
   </div>
   <p>
-    Estudiante de Biología con interés en ecología y evolución. Actualmente investiga el efecto de características ecológicas y biogeográficas de los páramos sobre la riqueza de aves en Colombia, utilizando R y otras herramientas de análisis de datos. Natalia ha colaborado en tareas administrativas relacionadas con actividades investigativas.
+    Bióloga con enfoque en ecología, biogeografía y evolución. Actualmente investiga el efecto de características ecológicas y biogeográficas de los páramos sobre la riqueza de aves en Colombia, utilizando herramientas SIG, R, y otras herramientas de análisis de datos. Natalia ha colaborado en tareas administrativas relacionadas con actividades investigativas.
   </p>
   <div class="interests">`#programación` `#Rstats` `#recursosabiertos` `#pedagogía`</div>
 </div>
